@@ -1,0 +1,254 @@
+[
+    {
+        "id": "e3dc4ff5-6a13-4a22-b270-e7abd6d27152",
+        "action": "training",
+        "model_name": "LinearRegression",
+        "files_used": [
+            "media/cleaned_fileer.csv",
+            "media/cleaned_fileer2.csv",
+            "media/cleaned_fileer3.csv"
+        ],
+        "X_columns": [
+            "A",
+            "B"
+        ],
+        "y_column": "C",
+        "metrics": {
+            "mse": 0.29660785208183627,
+            "r2": 0.0886128913425851,
+            "spearman_corr": 0.36440686920505616
+        },
+        "date": "2024-09-21 12:05:19"
+    },
+    {
+        "id": "d47b3fdd-39d4-4ab8-a205-12e57c624ccc",
+        "action": "training",
+        "model_name": "KNeighborsRegressor",
+        "files_used": [
+            "media/cleaned_fileer.csv",
+            "media/cleaned_fileer2.csv",
+            "media/cleaned_fileer3.csv"
+        ],
+        "X_columns": [
+            "A",
+            "B"
+        ],
+        "y_column": "C",
+        "metrics": {
+            "mse": 0.19037103706296804,
+            "r2": 0.4150468107194222,
+            "spearman_corr": 0.539074205515783
+        },
+        "date": "2024-09-21 12:07:35"
+    },
+    {
+        "id": "e39d3198-e6c5-4650-8e42-566753d63560",
+        "action": "training",
+        "model_name": "LinearRegression",
+        "files_used": [
+            "media/cleaned_fileer.csv",
+            "media/cleaned_fileer2.csv",
+            "media/cleaned_fileer3.csv"
+        ],
+        "X_columns": [
+            "A",
+            "B"
+        ],
+        "y_column": "C",
+        "metrics": {
+            "mse": 0.29660785208183627,
+            "r2": 0.0886128913425851,
+            "spearman_corr": 0.36440686920505616
+        },
+        "date": "2024-09-21 14:12:33"
+    },
+    {
+        "id": "02dddffb-a6c0-4a34-ba3e-c6ef1a2118b7",
+        "action": "training",
+        "model_name": "LinearRegression",
+        "files_used": [
+            "media/cleaned_fileer.csv",
+            "media/cleaned_fileer2.csv",
+            "media/cleaned_fileer3.csv"
+        ],
+        "X_columns": [
+            "A",
+            "B"
+        ],
+        "y_column": "C",
+        "metrics": {
+            "mse": 0.29660785208183627,
+            "r2": 0.0886128913425851,
+            "spearman_corr": 0.36440686920505616
+        },
+        "date": "2024-09-21 14:19:20"
+    },
+    {
+        "id": "979b5543-1d4e-41f4-8453-b18796409810",
+        "action": "training",
+        "model_name": "LinearRegression",
+        "files_used": [
+            "media/cleaned_fileer.csv",
+            "media/cleaned_fileer2.csv",
+            "media/cleaned_fileer3.csv"
+        ],
+        "X_columns": [
+            "A",
+            "B"
+        ],
+        "y_column": "C",
+        "metrics": {
+            "mse": 0.29660785208183627,
+            "r2": 0.0886128913425851,
+            "spearman_corr": 0.36440686920505616
+        },
+        "date": "2024-09-21 14:22:18"
+    },
+    {
+        "id": "d52697e6-99ce-46b0-a954-35d41bfc8946",
+        "action": "training",
+        "model_name": "LinearRegression",
+        "files_used": [
+            "media/cleaned_fileer.csv",
+            "media/cleaned_fileer2.csv",
+            "media/cleaned_fileer3.csv"
+        ],
+        "X_columns": [
+            "A",
+            "B"
+        ],
+        "y_column": "C",
+        "metrics": {
+            "mse": 0.29660785208183627,
+            "r2": 0.0886128913425851,
+            "spearman_corr": 0.36440686920505616
+        },
+        "date": "2024-09-21 14:29:04"
+    },
+    {
+        "id": "aa4b3f00-18cf-4511-be5c-1f9c0d19a7f9",
+        "action": "training",
+        "model_name": "LinearRegression",
+        "files_used": [
+            "media/cleaned_fileer.csv",
+            "media/cleaned_fileer2.csv",
+            "media/cleaned_fileer3.csv"
+        ],
+        "X_columns": [
+            "A",
+            "B"
+        ],
+        "y_column": "C",
+        "metrics": {
+            "mse": 0.29660785208183627,
+            "r2": 0.0886128913425851,
+            "spearman_corr": 0.36440686920505616
+        },
+        "date": "2024-09-21 14:33:42"
+    },
+    {
+        "id": "0e787c02-fac0-4668-b267-ce514abaeca1",
+        "action": "training",
+        "model_name": "LinearRegression",
+        "files_used": [
+            "media/cleaned_fileer.csv",
+            "media/cleaned_fileer2.csv",
+            "media/cleaned_fileer3.csv"
+        ],
+        "X_columns": [
+            "A",
+            "B"
+        ],
+        "y_column": "C",
+        "metrics": {
+            "mse": 0.29660785208183627,
+            "r2": 0.0886128913425851,
+            "spearman_corr": 0.36440686920505616
+        },
+        "date": "2024-09-21 14:36:53"
+    },
+    {
+        "id": "40ca45fb-06ac-4d53-9d9e-202f472d9157",
+        "action": "training",
+        "model_name": "LinearRegression",
+        "files_used": [
+            "media/cleaned_fileer.csv",
+            "media/cleaned_fileer2.csv",
+            "media/cleaned_fileer3.csv"
+        ],
+        "X_columns": [
+            "A",
+            "B"
+        ],
+        "y_column": "C",
+        "metrics": {
+            "mse": 0.29660785208183627,
+            "r2": 0.0886128913425851,
+            "spearman_corr": 0.36440686920505616
+        },
+        "date": "2024-09-21 14:40:24"
+    },
+    {
+        "id": "9f9c58ec-be0d-49d8-8296-15673aa0c1ad",
+        "action": "training",
+        "model_name": "LinearRegression",
+        "files_used": [
+            "media/cleaned_fileer.csv",
+            "media/cleaned_fileer2.csv",
+            "media/cleaned_fileer3.csv"
+        ],
+        "X_columns": [
+            "A",
+            "B"
+        ],
+        "y_column": "C",
+        "metrics": {
+            "mse": 0.29660785208183627,
+            "r2": 0.0886128913425851,
+            "spearman_corr": 0.36440686920505616
+        },
+        "date": "2024-09-21 14:57:51"
+    },
+    {
+        "id": "62986a44-744a-4bdb-b64a-f285b5179e5c",
+        "action": "training",
+        "model_name": "LinearRegression",
+        "files_used": [
+            "media/cleaned_fileer.csv",
+            "media/cleaned_fileer2.csv",
+            "media/cleaned_fileer3.csv"
+        ],
+        "X_columns": [
+            "A",
+            "B"
+        ],
+        "y_column": "C",
+        "metrics": {
+            "mse": 0.29660785208183627,
+            "r2": 0.0886128913425851,
+            "spearman_corr": 0.36440686920505616
+        },
+        "date": "2024-09-21 15:01:00"
+    },
+    {
+        "id": "1c96278e-bbf0-494a-9bc0-264ded500455",
+        "action": "training",
+        "model_name": "LinearRegression",
+        "files_used": [
+            "media/cleaned_fileer.csv",
+            "media/cleaned_fileer2.csv",
+            "media/cleaned_fileer3.csv"
+        ],
+        "X_columns": [
+            "A",
+            "B"
+        ],
+        "y_column": "C",
+        "metrics": {
+            "mse": 0.29660785208183627,
+            "r2": 0.0886128913425851,
+            "spearman_corr": 0.36440686920505616
+        },
+        "date": "2024-09-21 15:24:16"
+    }
+]

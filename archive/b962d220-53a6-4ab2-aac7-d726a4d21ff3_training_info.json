@@ -1,0 +1,1 @@
+{"id": "b962d220-53a6-4ab2-aac7-d726a4d21ff3", "action": "training", "model_name": "LinearRegression", "files_used": ["media/cleaned_fileer.csv", "media/cleaned_fileer2.csv", "media/cleaned_fileer3.csv"], "X_columns": ["A", "B"], "y_column": "C", "metrics": {"mse": 0.29660785208183627, "r2": 0.0886128913425851, "spearman_corr": 0.36440686920505616}, "date": "2024-09-21 11:03:23"}
